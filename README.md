@@ -13,5 +13,3 @@ This repository contains my first chapter practice while learning Python for **A
 ✅ Practice Exercises  
 
 ---
-
-## 📁 Folder Structure
