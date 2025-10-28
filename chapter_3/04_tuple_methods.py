@@ -1,4 +1,4 @@
-a = (1,45,342,3424,False, 45, "Rohan", "Shivam")
+a = (1,45,342,3424,False, 45, "Ahmed", "Khaliq")
 print(a) 
 
 no = a.count(45)
